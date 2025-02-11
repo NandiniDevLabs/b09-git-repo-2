@@ -1,3 +1,0 @@
-This is second file in data directory.
-Added for testing purposes.
-No information to add in this file.
