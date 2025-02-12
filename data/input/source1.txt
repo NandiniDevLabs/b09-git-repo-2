@@ -3,5 +3,7 @@ You can use git completely free locally, and
 use it to track changes on your local files on
 your own computer.
 However if you want to host your code on the
-internet, its typically easier to use a hosting
-service like GitHub.
+internet, its typically easier to use a hosting service like GitHub.
+
+
+New line.
