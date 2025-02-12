@@ -1,1 +1,6 @@
 New line for source2.txt
+
+A
+B
+C
+
